@@ -20,7 +20,7 @@ product-info {
 }
 
 .product_authors .product_authors-title {
-  font-weight: 700;
+  color: #009ae3;
 }
 .product_authors .product_author-items {
   display: flex;
