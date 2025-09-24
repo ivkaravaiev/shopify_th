@@ -20,7 +20,8 @@ product-info {
 }
 
 .product_authors .product_authors-title {
-  color: #007fbb;
+  color: #202020;
+  font-weight: 700;
 }
 .product_authors .product_author-items {
   display: flex;
